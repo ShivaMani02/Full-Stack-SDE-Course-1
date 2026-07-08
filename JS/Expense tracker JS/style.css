@@ -1,0 +1,20 @@
+body {
+  background: #f4f7fb;
+  color: #1f2937;
+}
+
+main {
+  max-width: 900px;
+}
+
+.card {
+  border-radius: 18px;
+}
+
+#expense-table-body tr td {
+  vertical-align: middle;
+}
+
+.btn-delete {
+  min-width: 95px;
+}
